@@ -1,10 +1,8 @@
 # stasiek_vehiclekeys
  A new better vehicle key locksystem based on decors
 
-`
 - server-sync
 - best optymalization
-`
 
 # Requirements
 `es_extended`
