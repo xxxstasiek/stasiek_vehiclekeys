@@ -3,9 +3,11 @@
 
 - server-sync
 - best optymalization
+- no database interference
+- only client-side script
 
 # Requirements
-`es_extended`
+- es_extended
 
 Add this line to es_extended/client/functions.lua#ESX.Game.SpawnVehicle
 ```
