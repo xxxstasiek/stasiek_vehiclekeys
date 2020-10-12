@@ -8,6 +8,7 @@
 
 # requirements
 - es_extended
+- change CreateVehicle native to ESX.Game.SpawnVehicle() in your scripts or add DecorSetInt(vehicle, "owner", GetPlayerServerId(PlayerId())) to your scripts to set vehicle owner
 
 Add this line to es_extended/client/functions.lua#ESX.Game.SpawnVehicle
 ```
